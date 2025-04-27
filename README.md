@@ -1,7 +1,7 @@
 # Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS
 Hybrid Architecture for Scalable Analytics
 
-(https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/architecture.png?raw=true)
+![Architecture](https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/architecture.png?raw=true)
 
 ## Overview
 This project implements a hybrid data pipeline using AWS services to address common business challenges in e-commerce, IoT, and financial sectors. The pipeline processes real-time streaming data for immediate decision-making (e.g., personalized recommendations, fraud detection) and batches data into a data warehouse for historical trend analysis (e.g., daily sales reports). 
