@@ -10,7 +10,7 @@ This project implements a real-time and batch ETL pipeline for monitoring and pr
 
 ## 🏗️ Architecture Diagram
 
-![Architecture]([architecture.png](https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/architecture.png?raw=true))
+![Architecture](architecture.png](https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/architecture.png?raw=true)
 
 ---
 
