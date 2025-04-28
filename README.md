@@ -43,7 +43,7 @@ This project implements a real-time and batch ETL pipeline for monitoring and pr
 
 | Feature | Screenshot |
 |:--------|:------------|
-| Power BI Dashboard (Price Drop Trends, Top Categories) | [Dashboard](https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/dashboard1.png?raw=true) 
+| Power BI Dashboard (Price Drop Trends, Top Categories)  [Dashboard](https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/dashboard1.png?raw=true) 
 | Streamlit ML Prediction App | ![Streamlit App](https://github.com/Team01DE/Real-Time-Data-Streaming-Batch-ETL-Pipeline-with-AWS/blob/main/images/streamlit_app.png?raw=true)
 
 ---
