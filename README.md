@@ -90,9 +90,3 @@ This project implements a real-time and batch ETL pipeline for monitoring and pr
 - Srivastava, S., & Sharma, S. (2020). *Data Visualization Techniques and Tools for Business Intelligence.* International Journal of Management Studies.
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
