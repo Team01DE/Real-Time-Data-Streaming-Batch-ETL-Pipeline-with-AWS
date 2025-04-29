@@ -1,4 +1,4 @@
-# Real-Time Batch ETL Pipeline for E-Commerce Price Drop Prediction
+# Real-Time  and Batch ETL Pipeline for E-Commerce Price Drop 
 
 ---
 
